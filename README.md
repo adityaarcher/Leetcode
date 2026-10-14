@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/adityaarcher/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/adityaarcher/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaarcher/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/adityaarcher/Leetcode/tree/master/0058-length-of-last-word) |
 ## String Matching
@@ -56,4 +57,16 @@
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/adityaarcher/Leetcode/tree/master/0994-rotting-oranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/adityaarcher/Leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/adityaarcher/Leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/adityaarcher/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
