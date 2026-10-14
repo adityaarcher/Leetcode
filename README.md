@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/adityaarcher/Leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/adityaarcher/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/adityaarcher/Leetcode/tree/master/0137-single-number-ii) |
+| [0994-rotting-oranges](https://github.com/adityaarcher/Leetcode/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaarcher/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/adityaarcher/Leetcode/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/adityaarcher/Leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
