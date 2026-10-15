@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityaarcher/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/adityaarcher/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/adityaarcher/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/adityaarcher/Leetcode/tree/master/0137-single-number-ii) |
 | [0994-rotting-oranges](https://github.com/adityaarcher/Leetcode/tree/master/0994-rotting-oranges) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/adityaarcher/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/adityaarcher/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/adityaarcher/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaarcher/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/adityaarcher/Leetcode/tree/master/0058-length-of-last-word) |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityaarcher/Leetcode/tree/master/0022-generate-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/adityaarcher/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
