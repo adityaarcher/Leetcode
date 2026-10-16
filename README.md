@@ -12,6 +12,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityaarcher/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/adityaarcher/Leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaarcher/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/adityaarcher/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -32,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityaarcher/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/adityaarcher/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/adityaarcher/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/adityaarcher/Leetcode/tree/master/0022-generate-parentheses) |
@@ -64,6 +66,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityaarcher/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/adityaarcher/Leetcode/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
@@ -89,4 +92,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/adityaarcher/Leetcode/tree/master/0148-sort-list) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityaarcher/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
