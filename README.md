@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/adityaarcher/Leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/adityaarcher/Leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -109,4 +110,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityaarcher/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/adityaarcher/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/adityaarcher/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
