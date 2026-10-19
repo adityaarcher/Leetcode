@@ -12,6 +12,7 @@
 | [0137-single-number-ii](https://github.com/adityaarcher/Leetcode/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/adityaarcher/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/adityaarcher/Leetcode/tree/master/0994-rotting-oranges) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityaarcher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/adityaarcher/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/adityaarcher/Leetcode/tree/master/0148-sort-list) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityaarcher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/adityaarcher/Leetcode/tree/master/0200-number-of-islands) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityaarcher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
