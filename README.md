@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/adityaarcher/Leetcode/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/adityaarcher/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/adityaarcher/Leetcode/tree/master/0137-single-number-ii) |
+| [0200-number-of-islands](https://github.com/adityaarcher/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/adityaarcher/Leetcode/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
@@ -63,10 +64,12 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/adityaarcher/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/adityaarcher/Leetcode/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/adityaarcher/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/adityaarcher/Leetcode/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
@@ -119,4 +122,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/adityaarcher/Leetcode/tree/master/0231-power-of-two) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/adityaarcher/Leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/adityaarcher/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
