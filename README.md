@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/adityaarcher/Leetcode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/adityaarcher/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/adityaarcher/Leetcode/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -128,12 +129,26 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/adityaarcher/Leetcode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/adityaarcher/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/adityaarcher/Leetcode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/adityaarcher/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Binary Search
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityaarcher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/adityaarcher/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/adityaarcher/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/adityaarcher/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
