@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/adityaarcher/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/adityaarcher/Leetcode/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/adityaarcher/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0130-surrounded-regions](https://github.com/adityaarcher/Leetcode/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/adityaarcher/Leetcode/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/adityaarcher/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/adityaarcher/Leetcode/tree/master/0994-rotting-oranges) |
@@ -66,12 +67,14 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/adityaarcher/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityaarcher/Leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/adityaarcher/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/adityaarcher/Leetcode/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/adityaarcher/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityaarcher/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/adityaarcher/Leetcode/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
@@ -128,11 +131,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/adityaarcher/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityaarcher/Leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/adityaarcher/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/adityaarcher/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityaarcher/Leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/adityaarcher/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Binary Search
