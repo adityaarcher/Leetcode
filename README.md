@@ -52,6 +52,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaarcher/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/adityaarcher/Leetcode/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/adityaarcher/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [1143-longest-common-subsequence](https://github.com/adityaarcher/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0198-house-robber](https://github.com/adityaarcher/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adityaarcher/Leetcode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/adityaarcher/Leetcode/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/adityaarcher/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -201,4 +203,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/adityaarcher/Leetcode/tree/master/0509-fibonacci-number) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/adityaarcher/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
