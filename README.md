@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityaarcher/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adityaarcher/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/adityaarcher/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/adityaarcher/Leetcode/tree/master/0039-combination-sum) |
@@ -131,6 +132,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityaarcher/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityaarcher/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/adityaarcher/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Math
