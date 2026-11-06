@@ -36,6 +36,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/adityaarcher/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/adityaarcher/Leetcode/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/adityaarcher/Leetcode/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityaarcher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
@@ -53,6 +54,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaarcher/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/adityaarcher/Leetcode/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/adityaarcher/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/adityaarcher/Leetcode/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/adityaarcher/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## String Matching
 |  |
@@ -135,6 +137,7 @@
 | [0001-two-sum](https://github.com/adityaarcher/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityaarcher/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/adityaarcher/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/adityaarcher/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
