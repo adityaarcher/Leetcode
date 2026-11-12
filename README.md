@@ -143,6 +143,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/adityaarcher/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/adityaarcher/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/adityaarcher/Leetcode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/adityaarcher/Leetcode/tree/master/2235-add-two-integers) |
@@ -166,6 +167,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/adityaarcher/Leetcode/tree/master/0069-sqrtx) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityaarcher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Graph Theory
 |  |
@@ -214,4 +216,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/adityaarcher/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/adityaarcher/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
