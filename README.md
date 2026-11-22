@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/adityaarcher/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adityaarcher/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/adityaarcher/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/adityaarcher/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/adityaarcher/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/adityaarcher/Leetcode/tree/master/0046-permutations) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityaarcher/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -84,6 +85,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/adityaarcher/Leetcode/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/adityaarcher/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityaarcher/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/adityaarcher/Leetcode/tree/master/0994-rotting-oranges) |
@@ -139,6 +141,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/adityaarcher/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityaarcher/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/adityaarcher/Leetcode/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/adityaarcher/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/adityaarcher/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
