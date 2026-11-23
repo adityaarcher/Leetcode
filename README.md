@@ -19,6 +19,7 @@
 | [0200-number-of-islands](https://github.com/adityaarcher/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/adityaarcher/Leetcode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/adityaarcher/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/adityaarcher/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0994-rotting-oranges](https://github.com/adityaarcher/Leetcode/tree/master/0994-rotting-oranges) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityaarcher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
@@ -98,6 +99,7 @@
 | [0131-palindrome-partitioning](https://github.com/adityaarcher/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/adityaarcher/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adityaarcher/Leetcode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/adityaarcher/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/adityaarcher/Leetcode/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/adityaarcher/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
@@ -226,4 +228,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/adityaarcher/Leetcode/tree/master/0069-sqrtx) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/adityaarcher/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/adityaarcher/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
