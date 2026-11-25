@@ -96,6 +96,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityaarcher/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/adityaarcher/Leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/adityaarcher/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaarcher/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/adityaarcher/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/adityaarcher/Leetcode/tree/master/0198-house-robber) |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityaarcher/Leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/adityaarcher/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/adityaarcher/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/adityaarcher/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/adityaarcher/Leetcode/tree/master/0509-fibonacci-number) |
@@ -243,4 +245,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/adityaarcher/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/adityaarcher/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
