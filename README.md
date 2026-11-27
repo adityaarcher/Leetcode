@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/adityaarcher/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/adityaarcher/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/adityaarcher/Leetcode/tree/master/0046-permutations) |
+| [0063-unique-paths-ii](https://github.com/adityaarcher/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityaarcher/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adityaarcher/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaarcher/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/adityaarcher/Leetcode/tree/master/0036-valid-sudoku) |
+| [0063-unique-paths-ii](https://github.com/adityaarcher/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/adityaarcher/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityaarcher/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/adityaarcher/Leetcode/tree/master/0994-rotting-oranges) |
@@ -101,6 +103,7 @@
 | [0005-longest-palindromic-substring](https://github.com/adityaarcher/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/adityaarcher/Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/adityaarcher/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/adityaarcher/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaarcher/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityaarcher/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/adityaarcher/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
