@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/adityaarcher/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adityaarcher/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/adityaarcher/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/adityaarcher/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/adityaarcher/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/adityaarcher/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/adityaarcher/Leetcode/tree/master/0046-permutations) |
@@ -33,6 +34,7 @@
 | [0005-longest-palindromic-substring](https://github.com/adityaarcher/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/adityaarcher/Leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaarcher/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/adityaarcher/Leetcode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityaarcher/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adityaarcher/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/adityaarcher/Leetcode/tree/master/0148-sort-list) |
